@@ -1,6 +1,6 @@
 # Wor**l**dle
 
-Play this geographical wordle here: https://worldle.teuteuf.fr !
+Play this geographical wordle here: https://theworldle.com !
 
 ## Resources used:
 
