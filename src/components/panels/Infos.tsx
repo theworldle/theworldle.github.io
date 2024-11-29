@@ -103,7 +103,7 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
         by{" "}
         <a
           className="underline"
-          href="https://www.powerlanguage.co.uk/wordle/"
+          href="https://www.playwordle.uk/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -112,37 +112,13 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
         created by{" "}
         <a
           className="underline"
-          href="https://twitter.com/powerlanguish"
+          href="https://twitter.com/wordleuk"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Josh Wardle (@powerlanguish)
+          Play Wordle
         </a>
         .
-      </div>
-      <div className="space-y-3 text-justify pb-3">
-        <div>
-          Made by{" "}
-          <a
-            className="underline"
-            href="https://twitter.com/teuteuf"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            @teuteuf
-          </a>
-        </div>
-        <div>
-          Want to support?{" "}
-          <a
-            className="underline"
-            href="https://www.ko-fi.com/teuteuf"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Buy me a coffee! ☕
-          </a>
-        </div>
       </div>
     </Panel>
   );
